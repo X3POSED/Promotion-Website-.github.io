@@ -5,14 +5,15 @@ Website Project
 - None yet
 
 Creating a Check List
-- [] this is an example checkbox
+- [ ] this is an example checkbox
 - [x] this is a checked box
-- <del> [x] this is a crossed out item </del>
+- <del> [x] this is a crossed out item that looks odd </del>
+- [x] <del> this is a crossed out item that looks better </del>
 
 ---
 
 # To Do List:
-- Create a to do list
-- add more items from the paper
+- [x] <del> Create a to do list </del>
+- [ ] add more items from the paper
 
 --- 
