@@ -17,4 +17,13 @@ Creating a Check List
 - [ ] add more items from the paper
 - [ ] add about me section
 - [ ] add pop up box
+- [ ] Add website name
+- [ ] Add playlist box tab on the right side
+- [ ] put a good spotify background
+- [ ] Most played song in your playlist box
+
+
+
+
 --- 
+
