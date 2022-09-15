@@ -21,7 +21,7 @@ Creating a Check List
 - [ ] Add playlist box tab on the right side
 - [ ] put a good spotify background
 - [ ] Most played song in your playlist box
-
+- [ ] Customize box for background and text
 
 
 
