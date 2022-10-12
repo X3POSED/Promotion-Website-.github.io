@@ -1,0 +1,22 @@
+h2{
+    margin: 40px;
+    font-size: 30px;
+    font-weight: bolder;
+    Font-family: 'Courier New';
+    text-shadow: 2px 2px 4px #000;
+    animation: color 8s infinite;
+}
+
+@keyframes color {
+    0% {color:blue;}
+    10% {color:red;}
+    20% {color:purple;}
+    30% {color:pink;}
+    40% {color:lightsalmon;}
+    50% {color:green;}
+    60% {color:black;}
+    70% {color:orange;}
+    80% {color:cyan;}
+    90% {color:yellow;}
+    100% {color:coral;}
+}
