@@ -14,7 +14,7 @@ Creating a Check List
 
 # To Do List:
 - [x] <del> Create a to do list </del>
-- [ ] add more items from the paper
+- [x] add more items from the paper
 - [x] add about me section
 - [x] add tab box
 - [x] Add website name
