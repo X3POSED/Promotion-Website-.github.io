@@ -20,8 +20,9 @@ Creating a Check List
 - [x] Add website name
 - [x] Add playlist inside tab section
 - [x] put a good spotify background
-- [ ] Customize box for background and text
-
+- [x] Change tittle colors so its not black
+- [x] add link to promotion website
+ 
 
 
 --- 
