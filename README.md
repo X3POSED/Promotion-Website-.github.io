@@ -15,10 +15,10 @@ Creating a Check List
 # To Do List:
 - [x] <del> Create a to do list </del>
 - [ ] add more items from the paper
-- [ ] add about me section
-- [ ] add pop up box
+- [x] add about me section
+- [x] add tab box
 - [x] Add website name
-- [ ] Add playlist box tab on the right side
+- [x] Add playlist inside tab section
 - [x] put a good spotify background
 - [ ] Customize box for background and text
 
