@@ -2,7 +2,7 @@ h2{
     margin: 40px;
     font-size: 30px;
     font-weight: bolder;
-    Font-family: 'Courier New' Courier;
+    Font-family: 'Courier New' Courier monospace serif;
     text-shadow: 2px 2px 4px #000;
     animation: color 8s infinite;
 }
