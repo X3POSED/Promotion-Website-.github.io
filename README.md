@@ -23,6 +23,7 @@ Creating a Check List
 - [x] Change tittle colors so its not black
 - [x] add link to promotion website
 - [ ] add an about section for spotify
+- [ ] add a spotify image
  
 
 
